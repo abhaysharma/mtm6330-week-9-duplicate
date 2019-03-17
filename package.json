@@ -1,21 +1,21 @@
 {
-  "name": "mtm6330-week-9-final",
+  "name": "mtm6330-week-9-dulpicate",
   "version": "1.0.0",
-  "description": "Working with BootStrap 4 to customize the theme for our projects using Gulp. Also looking at how to concatenate and minfy JavaScript files for better site performance.",
+  "description": "Duplicate of mtm6330-week-9 repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhaysharma/mtm6330-week9-final.git"
+    "url": "git+https://github.com/abhaysharma/mtm6330-week-9-duplicate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhaysharma/mtm6330-week9-final/issues"
+    "url": "https://github.com/abhaysharma/mtm6330-week-9-duplicate/issues"
   },
-  "homepage": "https://github.com/abhaysharma/mtm6330-week9-final#readme",
+  "homepage": "https://github.com/abhaysharma/mtm6330-week-9-duplicate#readme",
   "devDependencies": {
     "autoprefixer": "^9.4.10",
     "browser-sync": "^2.26.3",
